@@ -13,3 +13,6 @@ You can see all requirements in <code>install.sh</code>
 <code>./install.sh</code>
 
 <code>python anydisto.py</code>
+
+## Video demo
+[Click here to watch the vedio](https://asciinema.org/a/udxdVwGvH9nPLXwCjwAkzJket)
